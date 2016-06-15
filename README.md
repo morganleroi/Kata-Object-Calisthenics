@@ -1,7 +1,52 @@
 # Kata-Object-Calisthenics
 
-***Acceptance tests***
 
+Object Calisthenics ?
+---------
+
+>Do a simple project using far stricter coding standards than you’ve ever used in your life.
+>Below, you’ll find 9 “rules of thumb” that will help push your code into good object-oriented
+>shape.
+>By suspending disbelief, and rigidly applying these rules on a small, 1000 line project, you’ll
+>start to see a significantly different approach to designing software. Once you’ve written 1000
+>lines of code, the exercise is done, and you can relax and go back to using these 9 rules as
+>guidelines.
+
+-  [Object Calisthenics pdf](http://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf)
+-  Object Calisthenics (full book), Jeff Bay in: The ThoughtWorks Anthology.
+Pragmatic Bookshelf 2008
+-  Original idea for the kata: How Object-Oriented Are You Feeling Today? - Krzysztof Jelski (Session on the Software Craftsmanship UK 2011 conference)
+
+The Rules
+---------
+
+1. One level of indentation per method
+2. Don’t use the ELSE keyword
+3. Wrap all primitives and Strings
+4. First class collections
+5. One dot per line
+6. Don’t abbreviate
+7. Keep all entities small (50 lines)
+8. No classes with more than two instance variables
+9. No getters/setters/properties
+
+You're a jedi ? You're are stronger than theses 9 rules ?
+----------
+1. Use Resharper and only use shortcuts to do the Kata. Mouse is forbidden. 
+
+If you are coming from a JAVA background and have been using IntelliJ IDEA, use this:
+http://www.jetbrains.com/resharper/docs/ReSharper90DefaultKeymap_IDEA_scheme.pdf
+
+If you are like me and a hard core visual studio user, use this:
+http://www.jetbrains.com/resharper/docs/ReSharper90DefaultKeymap_VS_scheme.pdf
+
+The Kata
+---------
+- 1h to 1.5h : Let's code ! TDD and Pair programming required
+- 0.5h : Each group explains what they've done. What rule has been respected, what rule have been violated ? Why ?  What OO design emerged from this exercice ?
+
+Acceptance tests
+---------
 **Scenario** : Can depose and withdraw money on my account
 
 ```
