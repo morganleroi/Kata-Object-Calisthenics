@@ -76,6 +76,12 @@
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BankAccountKata\BankAccountKata.csproj">
+      <Project>{B7D18237-B95E-43A2-AB4D-761CAC4CD57A}</Project>
+      <Name>BankAccountKata</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
