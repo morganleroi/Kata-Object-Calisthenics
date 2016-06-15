@@ -37,7 +37,7 @@ You're a jedi ? You're are stronger than theses 9 rules ?
 If you are coming from a JAVA background and have been using IntelliJ IDEA, use this:
 http://www.jetbrains.com/resharper/docs/ReSharper90DefaultKeymap_IDEA_scheme.pdf
 
-If you are like me and a hard core visual studio user, use this:
+If you are a visual studio user, use this:
 http://www.jetbrains.com/resharper/docs/ReSharper90DefaultKeymap_VS_scheme.pdf
 
 The Kata
