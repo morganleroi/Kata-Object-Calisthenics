@@ -30,10 +30,20 @@ The Rules
 8. No classes with more than two instance variables
 9. No getters/setters/properties
 
+You're a jedi ? You're are stronger than theses 9 rules ?
+----------
+1. Use Resharper and only use shortcuts to do the Kata. Mouse is forbidden. 
+
+If you are coming from a JAVA background and have been using IntelliJ IDEA, use this:
+http://www.jetbrains.com/resharper/docs/ReSharper90DefaultKeymap_IDEA_scheme.pdf
+
+If you are like me and a hard core visual studio user, use this:
+http://www.jetbrains.com/resharper/docs/ReSharper90DefaultKeymap_VS_scheme.pdf
+
 The Kata
 ---------
 - 1h to 1.5h : Let's code ! TDD and Pair programming required
-- 0.5h : Each group explains what they've done. What rule has been respected, what rule have been violated ?
+- 0.5h : Each group explains what they've done. What rule has been respected, what rule have been violated ? Why ?  What OO design emerged from this exercice ?
 
 Acceptance tests
 ---------
